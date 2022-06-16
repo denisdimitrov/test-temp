@@ -11,7 +11,7 @@ It is good to have guidlines and rules but they can never be perfect and apply t
 ## Content
 
 - [Naming](#Naming)
-  - [File names](#File names)
+  - [File names](#File-names)
   - [React Components](#React Components)
   - [Component Exports](#Component Exports)
   - [Class Prefixes](#Class Prefixes)
